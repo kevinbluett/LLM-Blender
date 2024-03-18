@@ -28,7 +28,7 @@ setup(
         # 'scipy',
         # "matplotlib",
         "pandas",
-        "scikit-learn",
+        # "scikit-learn",
         "protobuf<=3.20.1",
         "wandb",
         "sacrebleu",
