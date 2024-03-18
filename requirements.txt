@@ -113,12 +113,12 @@ isort==5.8.0
 jax==0.4.8
 jaxlib==0.4.7
 jedi @ file:///tmp/build/80754af9/jedi_1644297102865/work
-Jinja2==3.1.2
+# Jinja2==3.1.2
 joblib==1.2.0
 jsonlines==3.1.0
 jsonschema==4.17.3
-jupyter_client @ file:///croot/jupyter_client_1680171862562/work
-jupyter_core @ file:///croot/jupyter_core_1679906564508/work
+# jupyter_core @ file:///croot/jupyter_core_1679906564508/work
+# jupyter_client @ file:///croot/jupyter_client_1680171862562/work
 keras==2.12.0
 kiwisolver==1.4.4
 langcodes==3.3.0
@@ -130,8 +130,8 @@ Markdown==3.4.3
 markdown-it-py==2.2.0
 markdown2==2.4.8
 MarkupSafe==2.1.2
-matplotlib==3.7.1
-matplotlib-inline @ file:///opt/conda/conda-bld/matplotlib-inline_1662014470464/work
+# matplotlib==3.7.1
+# matplotlib-inline @ file:///opt/conda/conda-bld/matplotlib-inline_1662014470464/work
 mccabe==0.7.0
 mdit-py-plugins==0.3.3
 mdurl==0.1.2
