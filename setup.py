@@ -20,7 +20,7 @@ setup(
         # "evaluate",
         # "bert_score",
         "cpm_kernels",
-        # "sentencepiece",
+        "sentencepiece",
         # "fschat",
         "numpy",
         "tabulate",
