@@ -26,7 +26,7 @@ setup(
         "tabulate",
         "nltk",
         # 'scipy',
-        # "matplotlib",
+        "matplotlib",
         "pandas",
         "scikit-learn",
         "protobuf<=3.20.1",
